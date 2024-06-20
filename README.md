@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a fresher manual and automation tester passion
 
 ### 1. Automated Web Testing with Selenium
 - **Description**: Developed a suite of automated tests for a sample e-commerce website using Selenium WebDriver and TestNG.
-- **Technologies**: Selenium WebDriver, TestNG, Java, Maven
+- **Technologies**: Selenium WebDriver, Cucumber, Java, Maven
 - **GitHub Repository**: [Automated Web Testing](https://github.com/Ruban-RR/Cucumber-Project-Selenium-.git)
 
 ### 2. Lost and Found Mobile Application (Java)
