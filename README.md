@@ -60,7 +60,7 @@ belongings with their owners.
 - Taking Screenshots
 - Page Object Model
 - TestNG Annotations and Test cases written in Selenium, Java
-- **GitHub Repository**: [TestNG Project](https://github.com/Ruban-RR/Lost-and-Found-Mini-Project.git)
+- **GitHub Repository**: [TestNG Project](https://github.com/Ruban-RR/Structured-TestNG-Execution.git)
 
 
 ## 🤝 Let's Connect
