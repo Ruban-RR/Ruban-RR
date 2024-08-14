@@ -52,7 +52,7 @@ who have lost items with those who have found
 them, streamlining the process of reuniting lost 
 belongings with their owners.
 - **Technologies**: Java, Firebase
-- **GitHub Repository**: [Lost and Found Mini Project](https://github.com/Ruban-RR/Lost-and-Found-Mini-Project.git)
+- **GitHub Repository**: [Lost and Found Mini Project](https://github.com/Ruban-RR/Structured-TestNG-Execution.git)
 
 ### 3. TestNG Project
 - **Description**: This is a structured TestNG project which included,
