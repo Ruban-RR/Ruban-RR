@@ -54,6 +54,15 @@ belongings with their owners.
 - **Technologies**: Java, Firebase
 - **GitHub Repository**: [Lost and Found Mini Project](https://github.com/Ruban-RR/Lost-and-Found-Mini-Project.git)
 
+### 3. TestNG Project
+- **Description**: This is a structured TestNG project which included,
+- Extend Reports
+- Taking Screenshots
+- Page Object Model
+- TestNG Annotations and Test cases written in Selenium, Java
+- **GitHub Repository**: [TestNG Project](https://github.com/Ruban-RR/Lost-and-Found-Mini-Project.git)
+
+
 ## 🤝 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/ruban-rajasekar)
