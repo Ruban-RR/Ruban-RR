@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a fresher manual and automation tester passion
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning more about automation frameworks and advanced testing techniques.
 - 💬 Ask me about manual testing, automation testing, test case design, and bug reporting.
 - 📫 How to reach me: getruban51@gmail.com
 - ⚡ Fun fact: I love solving puzzles and playing strategy games.
@@ -20,21 +19,16 @@ Welcome to my GitHub profile! I'm a fresher manual and automation tester passion
 - STLC
 - Black Box Testing
 - Functional Testing
-- API Testing
 
 ### Automation Testing
 
 - Selenium WebDriver
 - TestNG
-- JUnit
-- Postman for API Testing
-- Basic Java programming
+- Java programming
 
 ### Tools & Technologies
 
 - JIRA
-- Git
-- TestRail
   
 ## 🌟 Projects
 
@@ -71,11 +65,6 @@ belongings with their owners.
 
 - Manual Test Engineer - [Quality Thoughts](https://drive.google.com/file/d/1NxXDnOIi4mHbKo_lbLUbZ0X2q7ovJD3i/view?usp=drive_link)
 - Automation Test Engineer - Selenium (Java) - [Quality Thoughts](https://drive.google.com/file/d/1n8jEYap2dtGA4sfUCCplDnmVEu0RYTE_/view?usp=drive_link)
-
-## 🎯 Goals for 2024
-
-- Master advanced automation frameworks like Cypress.
-- Gain expertise in performance and security testing.
 
 ---
 
