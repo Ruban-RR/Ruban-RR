@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a fresher manual and automation tester passionate about ensuring the quality and reliability of software applications. I thrive on finding bugs, automating tests, and continuously improving testing processes.
 
-# [Check Resume](https://drive.google.com/file/d/1v7_SCJqDBq2ZhqgIBZt1nc79CgLYiyGY/view?usp=drive_link)
+# [Check Resume](https://drive.google.com/file/d/1kf7ROX_4kQ-xh0Spum17FCjWMfUXKNr2/view?usp=sharing)
 
 ## 🚀 About Me
 
